@@ -1,0 +1,106 @@
+/* app css stylesheet */
+
+body {
+	padding-top: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border: 3px double black;
+	margin: .25cm;
+}
+ul { margin-left: 10px; padding: 0px; }
+h1, h2, p, span, a { font-family: 'Sawasdee', sans-serif; }
+h2 { color: #009EA0 !important }
+hr { border-top: 1px solid #bbb; }
+p.lead 		{ margin-bottom: 2px; }
+p.justify 	{ text-align: left; }
+p.title 	{ text-align: left; }
+p.center 	{ text-align: center;}
+.logo {
+	height: 100px;
+	margin-top: 30px;
+}
+.projects 	{ height: 75px; margin-right: 10px; }
+.side-border { border-right: 1px solid rgb(209, 209, 209); }
+.large {
+	font-size:26px;
+	font-weight: normal;
+}
+hr {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.sideline {
+    margin-top: 33px;
+    border-top: 1px solid #ccc;
+}
+.flip {
+	-moz-transform: scale(-1, 1);
+	-webkit-transform: scale(-1, 1);
+	-o-transform: scale(-1, 1);
+	-ms-transform: scale(-1, 1);
+	transform: scale(-1, 1);
+}
+.background {
+    height:100%;
+    width: 100%;
+    position: fixed;
+    z-index: -2;
+    opacity: .05;
+    margin: auto;
+    top:0px;
+    left:0px;
+    text-align: center;
+}
+.background img {
+	position:absolute;
+	top: 5%;
+	left: 25%;
+	width: 50%;
+}
+@media print and (color)
+{
+	* {
+		-webkit-print-color-adjust: exact  !important;
+		print-color-adjust: exact  !important;
+	}
+	body {
+		color: #000;
+		background: #fff;
+	}
+	h1, h2, p, span, a  { font-family: 'Sawasdee', sans-serif; }
+	hr 					{ border-top: 1px solid #bbb; }
+	h2, h3 				{ page-break-after: avoid; }
+	img 				{ max-width: 100% !important; }
+	ul, img 			{ page-break-inside: avoid; }
+	h1 					{ font-size: 25px; }
+	h2 					{ font-size: 20px; }
+	img 				{ height: 20px; }
+	article a {
+		font-weight: bolder;
+		text-decoration: none;
+	}
+	p.lead {
+		font-size: 12px;
+		margin-bottom: 5px;
+	}
+	/*
+	.logo {
+		height: 75px;
+		width: 75px;
+		margin-top: 30px;
+	}
+	*/
+	.projects {
+		width: auto;
+		height: 50px;
+		margin-right: 10px;
+	}
+	.background img {
+		top: 80pt;
+		left: 7.5pt;
+		width: 700pt;
+		height: 650pt;
+	}
+	a[href]:after { content: none !important; }
+}

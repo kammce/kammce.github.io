@@ -1,0 +1,228 @@
+Khalil A. Estell
+Github:
+github.com/kammce
+
+Sacramento, California
+
+Portfolio:
+kammce.io
+
+Robotics:
+sjsurobotics.org
+
+LinkedIn:
+linkd.in/1bCSYdQ
+
+khalil.estell@sjsu.edu
+
+Leadership
+
+916-477-9645
+
+Education
+
+President of SJSU Robotics from 2013
+to now
+President of The S.oftware for
+C.omputer E.ngineering Society from
+2014 to 2015
+
+Summary
+
+San Jose State University
+Computer Engineering
+August 2012 – June 2017
+
+Skills
+
+I am a self-starting, experienced, and
+outgoing engineering student with a
+track record of creativity, leadership,
+and the ability to execute large projects
+and solutions to meet the needs of the
+organizations that I am a part of.
+
+{ Software Engineering }
+Advanced ( 9.0 years )
+
+ Electrical Engineering 
+Proﬁcient ( 3.0 Years )
+
+⎍⎍ Embedded Systems ⎍⎍
+
+⌬ Manufacturing ⎔
+Competent ( 3.5 years )
+
+JavaScript,
+NodeJS,
+HTML5, CSS3, Git, Python,
+C/C++, MySQL, MongoDB,
+FFmpeg, NASM, PIC24F
+Assembly, Java
+
+Verilog,
+PCB
+Design,
+Analog
+Circuit
+Design,
+Battery
+Management,
+Systems
+Design,
+Digital
+Design, Motor Design
+
+Embedded Linux, Arduino,
+LPC17xx,
+Odroid
+XU3,
+BeagleBone
+Black,
+Raspberry Pi, I2C, SPI,
+UART, RC signals
+
+Diptrace, Eagle, SolidWorks,
+OnShape,
+Stratasys
+3D
+Printing, PCB manufacturing
+
+Proﬁcient ( 3.0 years )
+
+Work Experience
+ Database Application
+Designer 
+Jun '15 – Aug '15
+
+ Satellite Software
+Engineer 
+Jul '15 – Aug '15
+
+ IT/Technology
+Coordinator 
+Summers '13 & '14
+
+ SJSU Student
+Assistant 
+Feb '13 – June '14
+
+At
+Stinger
+Ghaﬀarian
+Technologies Inc. located in
+the NASA Ames Research
+Center in San Jose, I
+designed a Python backed
+web
+application
+for
+recording equipment sent to
+and from the ISS from the
+SPHERES group.
+
+At CrossTrac Engineering,
+Inc, I wrote Python software
+to parse RS232 packets
+from
+the
+satellite
+management
+unit
+and
+converted the packets into
+a dictionary data structure.
+The software was memory
+eﬃcient, fast, and fault
+tolerant.
+
+At Stanford University for the
+Stanford
+Pre-Collegiate
+Summer Institutes (SPCS)
+program where my team
+worked
+setup
+and
+maintained
+18+
+labs
+computers
+with
+400+
+computer
+across
+the
+campus for the program.
+
+For the Introduction to
+Engineering course at San
+Jose State University, where
+I assisted in helping students
+with their in lab assignments
+for 3D modeling CAD
+software, building turbine
+towers,
+and
+building
+autonomous robots.
+
+Projects
+Univesity Rover
+Challenge
+
+Aug '15 – Present
+URC is an international
+robotics competition where
+teams build a rover to
+traverse all types of terrain,
+manipulate
+and
+carry
+instruments, as well as
+conduct soil experiments.
+
+NASA RASC-AL
+RoboOps
+
+Aug '14 – Aug '14
+RoboOps is a robotics
+competition where eight US
+teams are selected by
+NASA to build a mars rover
+that can pick up specimens
+and be teleoperated from
+anywhere in the U.S.
+
+Solar Powered Phone
+Charger
+
+Apr '13 – Apr '13
+Solar rechargable battery
+bank
+with
+SoC
+level
+indicator
+display
+for
+charging
+phones
+and
+powering
+portable/wearable devices.
+
+Kammce Calc2
+
+Dec '12 - Feb '13
+A mobile friendly web
+calculator for engineers.
+Calculator
+comes
+with
+scientiﬁc,
+graphing
+and
+conversions calculators.
+
+

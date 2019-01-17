@@ -1,0 +1,202 @@
+div.scroll-down {
+	opacity: .6;
+	width:100px;
+	height:100px;
+	margin:auto;
+	position: relative;
+	left: -0.6px;
+	/*-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+}
+
+div.scroll-down:hover {
+	opacity: 1.0;
+}
+section#groups a img {
+	height: 120px;
+	padding: 5px;
+	max-width: 90%;
+	width:auto;
+}
+section#groups a {
+	display:inline-block;
+	/*border: 1px solid #ccc;*/
+	padding: 5px;
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;
+}
+section#groups a:hover {
+	/*border: 1px solid #ccc;*/
+	cursor: pointer;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+
+img.water {
+/*	position: relative; 
+	z-index: -5;
+	top:-240px;*/
+	height:200px;
+	opacity: 0.2;
+	margin-left: 2.5%;
+}
+
+
+div#scroll {
+	width:25px; 
+	height: 98%; 
+	position: fixed; 
+	left: 5px;
+	top:60px;
+}
+div.sclk {
+	width: 48%;
+	height: 100%; 
+	/*border: 1px solid #ccc;*/
+	float:left;
+}
+div.sclk #clk  {
+	height: inherit;
+}
+div.sclk #clk .t0 {
+	border-top: 1px solid #ccc;
+	border-left:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+
+	border-top-color: #ccc;
+	border-bottom-color: #ccc;
+	border-left-color: #ccc;
+
+	height:0.925%;
+/*	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+}
+div.sclk #clk .t1 {
+	border-top: 1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+
+	border-top-color: #ccc;
+	border-bottom-color: #ccc;
+	border-left-color: #ccc;
+	
+	height:0.925%;
+/*	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+}
+div.sda {
+	width: 48%;
+	margin-left:2%; 
+	height: 100%; 
+	/*border: 1px solid #ccc;*/
+	float:left;
+}
+div.sda #data {
+	height: inherit;
+}
+div.sda #data .rise {
+	/*border-top: 1px solid #ccc;*/
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+
+	border-top-color: #ccc;
+	border-right-color: #ccc;
+	
+	height:1.85%;
+	font-size: 5px;
+
+	/*-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+}
+div.sda #data .fall {
+	border-top: 1px solid #ccc;
+	/*border-bottom:1px solid #ccc;*/
+	border-left:1px solid #ccc;
+
+	border-top-color: #ccc;
+	border-left-color: #ccc;
+	
+	height:1.85%;
+	font-size: 5px;
+
+	/*-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+}
+div.sda #data .low {
+	border-left:1px solid #ccc;
+	border-left-color: #ccc;
+	height:1.85%;
+	font-size: 5px;
+
+	/*-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+}
+div.sda #data .high {
+	border-right:1px solid #ccc;
+	border-right-color: #ccc;
+	height:1.85%;
+	font-size: 5px;
+
+	/*-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;*/
+
+}
+.data-highlight {
+	border-top-color: red;
+	border-right-color: red;
+	border-bottom-color: red;
+	border-left-color: red;
+	background-color: rgba(255,0,0,0.5);
+}
+.clk-highlight {
+	border-top-color: green;
+	border-right-color: green;
+	border-bottom-color: green;
+	border-left-color: green;
+	background-color: rgba(0,255,0,0.5);
+}
+div.sda span.text, div.sclk span.text {
+	display:block;
+	/* Safari */
+	-webkit-transform: rotate(90deg);
+	/* Firefox */
+	-moz-transform: rotate(90deg);
+	/* IE */
+	-ms-transform: rotate(90deg);
+	/* Opera */
+	-o-transform: rotate(90deg);
+	/* Internet Explorer */
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	margin-left:5px;
+}
+
+/* projects */
+
+.tech {
+	height:50px;
+	margin-right:10px;
+}
+
+.panel-body img {
+	max-width: 80%;
+	max-height: 100px;
+	margin-bottom:15px;
+	/*height: 125px;*/
+}
